@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/TheUniversal/tum-itunes",
   "dependencies": {
+    "osa": "2.2.0",
     "the-universal-common": "0.1.3"
   }
 }
