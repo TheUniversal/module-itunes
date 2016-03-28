@@ -1,10 +1,10 @@
 {
-  "name": "tum-itunes",
+  "name": "the-universal-module-itunes",
   "version": "0.1.0",
   "description": "The Universal connector module for iTunes",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TheUniversal/tum-itunes.git"
+    "url": "https://github.com/TheUniversal/module-itunes.git"
   },
   "keywords": [
     "universal",
@@ -15,9 +15,9 @@
   "author": "Matias Klemola",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TheUniversal/tum-itunes/issues"
+    "url": "https://github.com/TheUniversal/module-itunes/issues"
   },
-  "homepage": "https://github.com/TheUniversal/tum-itunes",
+  "homepage": "https://github.com/TheUniversal/module-itunes",
   "dependencies": {
     "osa": "2.2.0",
     "the-universal-common": "0.1.3"
